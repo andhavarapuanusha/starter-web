@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ##Intoduction
 this is introduction in web repo
+
+##copyright
+2014 git.training
