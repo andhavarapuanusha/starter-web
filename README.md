@@ -12,3 +12,6 @@ this is introduction in web repo
 
 ##copyright
 2014 git.training
+
+##how to contribute
+please contribute
