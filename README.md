@@ -13,7 +13,7 @@ Sample website with plenty of files for demos
 this is introduction in web repo
 
 ##copyright
-2014 git.training
+2014 git.training all rights reserved
 
 ##how to contribute
 please contribute
